@@ -1,0 +1,19 @@
+{
+  "name": "edpx-cordova",
+  "version": "1.0.0",
+  "description": "cordova develop toolkit for edp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "edp",
+    "cordova"
+  ],
+  "author": "daaaabeeen",
+  "license": "MIT",
+  "dependencies": {
+    "cordova": "^6.2.0",
+    "edp-core": "^1.0.32"
+  }
+}
